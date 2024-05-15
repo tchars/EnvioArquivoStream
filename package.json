@@ -1,0 +1,26 @@
+{
+  "name": "envio-csv",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Envio de arquivos CSV com streams",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchars/EnvioArquivoStream.git"
+  },
+  "keywords": [
+    "Stream",
+    "CSV",
+    "Arquivos"
+  ],
+  "author": "Charles J",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tchars/EnvioArquivoStream/issues"
+  },
+  "homepage": "https://github.com/tchars/EnvioArquivoStream#readme"
+}
